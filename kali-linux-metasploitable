@@ -70,5 +70,36 @@ To allow communication between Kali Linux and Metasploitable:
       ip a     -> On Kali Linux
 4. Note the IP addresses.
 
+               ---------------------------
+
+# Security Tools Installation
+
+
+
+Kali Linux comes with several preinstalled tools for penetration testing, network analysis, and security assessments. 
+Below are some commonly used ones:  
+
+# Preinstalled Tools in Kali Linux  
+ * Aircrack-ng – Wireless network security auditing.  
+ * Hydra – Password cracking tool for various protocols.  
+ * Sqlmap – Automated SQL injection detection and exploitation.  
+ * John the Ripper – Fast password cracker.  
+ * Nikto      – Web vulnerability scanner.  
+
+# Additional Tools to Install
+You can install more tools based on your requirements:  
+
+ * Nmap  – Network scanning and reconnaissance tool.  
+             Command: `sudo apt install nmap`  
+ * Netdiscover – Used for finding live hosts in a network.  
+            Command: `sudo apt install netdiscover`  
+ * Metasploit Framework – Exploitation and penetration testing tool.  
+            Command: `sudo apt install metasploit-framework`  
+ * Wireshark  – Captures and analyzes network traffic.  
+            Command: `sudo apt install wireshark`  
+ * Burp Suite  – Web security testing and vulnerability scanning tool.  
+            Command: `sudo apt install burpsuite`  
+
+Kali Linux provides a wide range of preinstalled tools, and you can install additional tools based on your penetration testing needs.  
 
 
