@@ -1,0 +1,74 @@
+# Installing Kali Linux and Metasploitable
+
+Kali Linux is a powerful penetration testing operating system, while Metasploitable is a deliberately vulnerable virtual machine designed for security training. Below are the two methods for installing Kali Linux.  
+
+---
+
+# Method 1: Installing Kali Linux via ISO (Manual Installation)
+
+1.  Download Kali Linux ISO from https://www.kali.org/get-kali/#kali-platforms and download the latest ISO file
+
+2.  Create a New Virtual Machine 
+   - Open VirtualBox or VMware Workstation  
+   - Click New →  Name it "Kali Linux" or anything you like , set Type: Linux, and Version: Debian (64-bit)  → Allocate RAM (Recommended: 4GB or more).  
+   - Choose Create a Virtual Hard Disk and attach the Kali Linux ISO under the virtual CD/DVD drive from kali linux installter (complete offline installation with customization - from official site )
+
+
+3.  Load Kali ISO & Install  
+   - Start the VM and select the Kali ISO as the boot disk.  
+   - Follow the installation wizard to set up username, password, and partitioning.  
+   - Complete the installation, restart, and log in to Kali Linux  
+
+
+# Method 2: Using Kali Linux Prebuilt Virtual Machine (Easier & Faster)  
+
+1. Download the Prebuilt VM  
+   - Go to the [Kali Linux Virtual Machines page](https://www.kali.org/get-kali/#kali-virtual-machines).  
+   - Download the OVA file (for VirtualBox or VMware).  
+
+2. Import the OVA File  
+   - Open VirtualBox or VMware Workstation 
+   - Click File → Import Appliance → Select the OVA file and Import.  
+
+3. Start Kali Linux  
+   - Launch the VM and log in using the default credentials:  
+      **Username**: kali
+      **Password**: kali  
+
+                                 -------------------
+ # Updating Kali Linux
+After installation, update and upgrade the kali linux:
+sudo apt update 
+sudo apt upgrade 
+
+                                -------------------
+# Installing Metasploitable  
+
+1. Download Metasploitable 2  
+   - Download the VM file from [SourceForge](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/).  
+
+2. Extract & Import  
+   - Extract the downloaded ZIP file
+   - In VirtualBox/VMware, click new -> set type=linux , version linux -> in hard disk,choose 'use an exisiting disk file type'
+    and select the Metasploitable 2 you extract
+
+3. Start the VM  
+   - Once started, log in using:  
+    Username: msfadmin
+    Password: msfadmin
+
+                                 -----------------------
+
+# Configuring Networking
+
+Setting Up a Bridged Network
+To allow communication between Kali Linux and Metasploitable:
+1. Open VirtualBox/VMware settings for both VMs.
+2. Under Network, select Bridged Adapter.
+3. Restart both VMs and find their IP addresses:
+      ifconfig -> On Metasploitable
+      ip a     -> On Kali Linux
+4. Note the IP addresses.
+
+
+
