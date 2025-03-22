@@ -9,6 +9,6 @@ The goal is to create a safe environment for practicing cybersecurity techniques
 ## **Index of Key Concepts**
 - [System Requirements](system-requirements.md)
 - [Installing Virtual Machines](installing-vms.md)
-- [Installing kali linux and metasploitabel](kali-inux-and-metasploitabe)
+- [Installing kali linux and metasploitable](kali-linux--metasploitable)
 - [Networking Setup and tools installing](networking-tools-setup.md)
 - [Penetration Testing Basics](pentesting-basics.md)
