@@ -1,4 +1,4 @@
-# Introdcution
+# Introduction
 
 This document provides a step-by-step guide to setting up a virtual cybersecurity lab using
 Kali Linux and Metasploitable on a virtualization platform (VMware/VirtualBox). The lab
