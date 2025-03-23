@@ -1,4 +1,9 @@
+# Installing virtualbox/ VMware
+
+Open the downloaded VM file from its saved location and follow the on-screen instructions to install it.
+
 # Installing Kali Linux and Metasploitable  
+
 
 Kali Linux is a powerful penetration testing operating system, while Metasploitable is a deliberately vulnerable virtual machine designed for security training. Below are the two methods for installing Kali Linux.  
 
