@@ -12,26 +12,7 @@ establish a network for testing, and conduct basic reconnaissance to identify po
 weaknesses. This lab setup will provide hands-on experience with essential cybersecurity
 tools, helping you develop practical skills in ethical hacking and security analysis.
 
-# System Requirements
 
-Before proceeding, ensure you have the following:
-
-## Hardware Requirements
-- **RAM:** At least 8GB
-- **Storage:** Minimum 100GB free disk space
-- **Processor:** 64-bit processor
-
-## Software Requirements
-- **Virtualization Software:**  
-  - [Download VirtualBox](https://www.virtualbox.org/)  
-  - OR [Download VMware Workstation](https://www.vmware.com/products/workstation-player.html)
-
-- **Kali Linux ISO File:**  
-  - [Download from Kali Linux Official Site](https://www.kali.org/get-kali/#kali-platforms)
-
-- **Metasploitable VM File:**  
-  - [Download from SourceForge](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
- 
 
   # Install VM from it's offical site 
 
