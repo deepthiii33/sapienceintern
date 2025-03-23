@@ -22,7 +22,7 @@ This document provides a step-by-step guide to setting up a virtual cybersecurit
 - **Networking Tools:** ifconfig, ip a  
 - **Reconnaissance Tools:** Nmap
 
-  # System Requirements
+ # System Requirements
 
 Before proceeding, ensure you have the following:
 
