@@ -7,5 +7,5 @@ I have created this documentation to help set up a cybersecurity lab for testing
 - [introduction](task1/introduction.md)
 
 ## TASK 1
-- [Installing kali linux and metasploitable](task1/kali-linux-metasploitable)
+- [Installing kali linux and metasploitable](task1/kali-linux-metasploitable-2)
 - [Reconnaissance](task1/Initial-Reconnaissance.md)
