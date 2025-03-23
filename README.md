@@ -5,8 +5,9 @@
 This task involves setting up a cybersecurity lab using **Kali Linux** and **Metasploitable** on a virtualization platform. It also covers **network configuration** and **initial reconnaissance** using tools like Nmap.
 
 
-## **Index of Key Concepts**
-- [introduction](task1/introduction.md)
+## **Introduction**
+
+This document provides a step-by-step guide to setting up a virtual cybersecurity lab using Kali Linux and Metasploitable on a virtualization platform (VMware/VirtualBox). The lab will allow for penetration testing and cybersecurity practice. Setting up a cybersecurity lab provides a controlled environment for ethical hacking, penetration testing, and security research. 
 
 ## 📂 Task 1 Contents  
 
