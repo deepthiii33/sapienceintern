@@ -22,13 +22,13 @@
 
 Example output:
 
-21/tcp  open  ftp       vsftpd 2.3.4
-22/tcp  open  ssh       OpenSSH 4.7p1
-23/tcp  open  telnet    Linux telnetd
-53/tcp  open  domain    ISC BIND 9.4.2
-80/tcp  open  http      Apache 2.2.8
-110/tcp open  pop3?
-111/tcp open  rpcbind   2 (RPC #100000) 
+* 21/tcp  open  ftp       vsftpd 2.3.4
+* 22/tcp  open  ssh       OpenSSH 4.7p1
+* 23/tcp  open  telnet    Linux telnetd
+* 53/tcp  open  domain    ISC BIND 9.4.2
+* 80/tcp  open  http      Apache 2.2.8
+* 110/tcp open  pop3?
+* 111/tcp open  rpcbind   2 (RPC #100000) 
 
 like this all the open ports and services will be there 
 
