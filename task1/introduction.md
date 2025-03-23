@@ -14,7 +14,4 @@ tools, helping you develop practical skills in ethical hacking and security anal
 
 
 
-  # Install VM from it's offical site 
-
-Open the downloaded VirtualBox or VMware file from its saved location and follow the on-screen instructions to complete the installation.
 
