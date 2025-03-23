@@ -31,3 +31,9 @@ Before proceeding, ensure you have the following:
 
 - **Metasploitable VM File:**  
   - [Download from SourceForge](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
+ 
+
+  # Install VM from it's offical site 
+
+Open the downloaded VirtualBox or VMware file from its saved location and follow the on-screen instructions to complete the installation.
+
