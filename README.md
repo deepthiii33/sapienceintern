@@ -1,11 +1,14 @@
 # Cybersecurity Lab Setup Documentation
 
-I have created this documentation to help set up a cybersecurity lab for testing and learning security concepts.
+## 📌 Overview  
+
+This task involves setting up a cybersecurity lab using **Kali Linux** and **Metasploitable** on a virtualization platform. It also covers **network configuration** and **initial reconnaissance** using tools like Nmap.
 
 
 ## **Index of Key Concepts**
 - [introduction](task1/introduction.md)
 
-## TASK 1
+## 📂 Task 1 Contents  
+
 - [Installing kali linux and metasploitable](task1/lab-setup.md)
 - [Reconnaissance](task1/Initial-Reconnaissance.md)
