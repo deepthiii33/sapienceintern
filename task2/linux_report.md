@@ -17,6 +17,7 @@ This report documents the Linux administrative tasks performed along with the co
  - mkdir backup
  - cp notes.txt backup_notes.txt
  - mv backup_notes.txt backup/
+
 ![](https://github.com/deepthiii33/sapienceintern/blob/main/task2/screenshots/copy_move.png)
 
 ## 4. Delete the `backup` directory along with its contents.
