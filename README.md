@@ -25,7 +25,7 @@ This task invloves learning about learning linux fundamental commands. The objec
 
 - [introduction](task2/introduction.md)
 - [Command explanation](task2/Command_Details.md )
-- [Main Report](linux_report.md)
+- [Main Report](task2/linux_report.md)
 
 
 
