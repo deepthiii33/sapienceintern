@@ -5,7 +5,7 @@
 
 ###   System Requirements
 
-**Before proceeding, ensure you have the following:**
+Before proceeding, ensure you have the following:
 
 #### Hardware Requirements
 - **RAM:** At least 8GB
