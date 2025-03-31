@@ -5,22 +5,24 @@ This report documents the Linux administrative tasks performed along with the co
 ## 1. Create a directory named `my_project` and navigate into it.
  - mkdir my_project
  - cd my_project
-
+ 
+  ![](https://github.com/deepthiii33/sapienceintern/blob/main/task2/screenshots/creating_naviagting_directory.png)
 
 ## 2. Create an empty file named `notes.txt`
  - touch notes.txt
 
+ ![](https://github.com/deepthiii33/sapienceintern/blob/main/task2/screenshots/create_empty_file.png)
 
 ## 3. Copy `notes.txt` to a new file named `backup_notes.txt`, then move it into a newly created subdirectory called *backup*
  - mkdir backup
  - cp notes.txt backup_notes.txt
  - mv backup_notes.txt backup/
-
+![](https://github.com/deepthiii33/sapienceintern/blob/main/task2/screenshots/copy_move.png)
 
 ## 4. Delete the `backup` directory along with its contents.
  - rm -r backup
 
-
+![](https://github.com/deepthiii33/sapienceintern/blob/main/task2/screenshots/delete_files.png)
 ## 5. Create a file named `script.sh`, grant it executable permissions, and change its permissions so it is readable and executable only by the file owner.
  - touch script.sh
  - chmod u+x script.sh
