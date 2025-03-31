@@ -4,9 +4,9 @@
 - Linux is a powerful and widely used open-source operating system that provides extensive control over system administration and management.
 - This report documents essential Linux administrative tasks and the commands used to accomplish them.
 - These tasks involve file and user management, process control, network configuration, and system monitoring.
-- Additionally, PDF with detailed explanation of each commands and screenshot have been included to , which can be found in the PDF folder.
+- Additionally, PDF with detailed explanation of each commands  have been included to , which can be found in the PDF folder.
 
-The following Linux commands were used in this report:
+## The following Linux commands were used in this report:
 - **`mkdir`**, **`cd`** – Create and navigate directories
 - **`touch`** – Create an empty file
 - **`cp`**, **`mv`**, **`rm`** – Copy, move, and delete files and directories
