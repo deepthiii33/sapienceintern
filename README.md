@@ -17,7 +17,7 @@ This task involves setting up a cybersecurity lab using **Kali Linux** and **Met
 
 -----------
 
- # 📂 Task 1 Contents - Linux Fundamentals
+ # 📂 Task 2 Contents - Linux Fundamentals
 
  ### 📌 Overview
 
