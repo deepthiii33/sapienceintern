@@ -24,7 +24,6 @@ This task involves setting up a cybersecurity lab using **Kali Linux** and **Met
 This task invloves learning about learning linux fundamental commands. The objective was to practice file management, user and process control,networking, and scripting using essential Linux commands. The report details each step performed, including command execution, explanations, and corresponding screenshots where applicable.
 
 - [introduction](task2/introduction.md)
-- [Command explanation](task2/Command_Details.md )
 - [Main Report](task2/linux_report.md)
 
 ----------
