@@ -16,7 +16,7 @@
 - This confirmed that the Metasploit machine is reachable and ready for further enumeration.
 
   
-# Task 3 – Port Scanning
+# 3.  Port Scanning
 - To identify open ports on the Metasploit target machine (`192.168.1.4`) using a  Nmap scan.
 - command used : nmap -p- <target_ip>
 - -p-  -->  Nmap to scan all 65535 ports
