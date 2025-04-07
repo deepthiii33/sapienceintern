@@ -1,4 +1,4 @@
-# Task 4 – Service Enumeration
+# 4.  Service Enumeration
 - To identify services and their versions running on the open ports of the Metasploit target (`192.168.1.4`).
 - command used : nmap -sV 192.168.1.4
 - -sV -->  enables version detection.
