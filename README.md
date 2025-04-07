@@ -34,13 +34,9 @@ This task invloves learning about learning linux fundamental commands. The objec
 This task involves learning about network scanning and vulnerability assessment. The objective was to identify live hosts, open ports, running services, and potential vulnerabilities using Nmap and other open-source tools.
 
 ### 🛠️ **Tools Used**  
-  **nmap** 
-  **whois**
-  **dig** 
-  **nslookup** 
-  **masscan** 
-  **nikto** 
+  **nmap** ,  **whois** ,  **dig** ,  **nslookup** , **masscan** , **nikto** 
  
+
 - [TASK 3](https://github.com/deepthiii33/sapienceintern/tree/main/task3)
 
 
