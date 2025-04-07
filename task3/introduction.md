@@ -9,14 +9,13 @@
 -  For Nmap command assistance, help can be accessed through: **nmap --help**
 
 ## 🔗 Task Links
-1. [Identify Target IP Range & Ping Scan](basic-scan.md)  
-2. [Port Scanning](port-scan.md)  
-3. [Service Enumeration](service-enum.md)  
-4. [Banner Grabbing](banner-grabbing.md)  
-5. [OS Fingerprinting](os-fingerprinting.md)  
-6. [Footprinting](footprinting.md)  
-7. [Vulnerability Assessment](vulnerability-scan.md)
-8. [Tool Comparison](comparison.md)
-9. [Additional Nmap Scans](extra-nmap-scans.md)
+1. [Identify Target IP Range , Ping Scan & Port Scan](basic-scan.md)  
+2. [Service Enumeration](service-enum.md)  
+3. [Banner Grabbing](banner-grabbing.md)  
+4. [OS Fingerprinting](os-fingerprinting.md)  
+5. [Footprinting](footprinting.md)  
+6. [Vulnerability Assessment](vulnerability-scan.md)
+7. [Tool Comparison](comparison.md)
+8. [Additional Nmap Scans](extra-nmap-scans.md)
 
   
