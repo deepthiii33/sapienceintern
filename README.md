@@ -28,3 +28,21 @@ This task invloves learning about learning linux fundamental commands. The objec
 
 ----------
 
+# 📂 Task 3 Contents - Reconnaissance and Vulnerability Assessment
+
+ ### 📌 Overview
+
+This task involves learning about network scanning and vulnerability assessment. The objective was to identify live hosts, open ports, running services, and potential vulnerabilities using Nmap and other open-source tools.
+
+### 🛠️ **Tools Used**  
+   - **nmap:** For host discovery, port scanning, service enumeration, OS detection, and vulnerability assessment.
+   - **whois:**: To gather domain registration info.
+   - **dig:** For DNS lookup
+   - **nslookup:** DNS querying and basic network troubleshooting.
+   - **masscan:** port scanning
+   - **nikto:** Web server vulnerability scanner
+ 
+- []introduction](_
+
+
+
