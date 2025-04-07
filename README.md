@@ -28,7 +28,7 @@ This task invloves learning about learning linux fundamental commands. The objec
 
 ----------
 
-# 📂 Task 3 Contents - Reconnaissance and Vulnerability Assessment
+# 📂 Task 3 Contents -Network Scanning, Footprinting and Enumeration
 
  ### 📌 Overview
 
