@@ -10,9 +10,9 @@
 # 2. Perform Ping Scan
 
 - To identify active hosts within the target IP range 192.168.1.4
-- commands used : nmap -sn 192.168.1.4
-![](https://github.com/deepthiii33/sapienceintern/blob/main/task3/screenshots/ping_scan.png)
+- commands used : nmap -sn <target-ip>
 - -sn  -->  Nmap to perform a "ping scan" — it checks which hosts are up without scanning ports.
+![](https://github.com/deepthiii33/sapienceintern/blob/main/task3/screenshots/ping_scan.png)
 - This confirmed that the Metasploit machine is reachable and ready for further enumeration.
 
   
@@ -24,6 +24,7 @@
 -  useful for detecting services running on uncommon ports.
 -  Open ports indicate potential entry points.
 -  These results will be used in the next steps for service enumeration and vulnerability scanning.
+-  Here open ports are : ftp,ssh,telnet,smtp,postgresql,.....and all
 
 
 
