@@ -5,6 +5,9 @@
 - The tasks also include basic footprinting using tools like **whois, dig, and nslookup**
 - Along with comparisons using tools like  **Masscan, Nikto, and zenmap**
 
-- 
+-  Each step demonstrates practical application of commands with explanations and screenshots where applicable
+-  For Nmap command assistance, help can be accessed through: **nmap --help**
+
+ ![](https://github.com/deepthiii33/sapienceintern/blob/main/task3/screenshots/nmap_help.png)
 
   
