@@ -1,4 +1,4 @@
-# Task 5: Banner Grabbing
+#  5. Banner Grabbing
  - To collect banners from open ports to identify services and possible vulnerabilities.
  - Command used : nmap --script=banner <target-ip>
  - --script=banner --> used in nmap to run a script that attempts to grab banners from services running on open ports.
