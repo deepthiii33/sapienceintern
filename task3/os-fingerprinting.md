@@ -1,6 +1,6 @@
 # 6.  OS Fingerprinting
 - To uncover the target machine’s OS type and version using Nmap’s built-in OS scanning.
-- Command used: nmap -O <target-ip>
+- Command used: nmap -O target-ip
 - -O --> enables OS detection
 - Nmap figures out the OS by sending special network requests and watching how the system replies.then guesses the OS based on behavior it’s seen before in other systems.
 
