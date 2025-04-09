@@ -3,9 +3,10 @@
  - Command used : nmap --script=banner <target-ip>
  - --script=banner --> used in nmap to run a script that attempts to grab banners from services running on open ports.
  - identifying the  versions of services and  misconfigurations or outdated software.
+
 ![](https://github.com/deepthiii33/sapienceintern/blob/main/task3/screenshots/banner%20grabbing.png)
 
-- Banner grabbing is a technique used to gain information about a service running on an open port.It  includes details like the software name, version, operating system—all of which can help in vulnerability assessment.
+Banner grabbing is a technique used to gain information about a service running on an open port.It  includes details like the software name, version, operating system—all of which can help in vulnerability assessment.
 
 #### From my output we can get information like :
 
