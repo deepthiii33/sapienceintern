@@ -44,12 +44,19 @@ This task involves learning about network scanning and vulnerability assessment.
 # 📂 Task 4 Contents -Advanced Topics and Ethical Hacking
 
  ### 📌 Overview
-This task invloves performing Phishing using Zphisher and exploiting vsftpd Vulnerability in Metasploitable 2
+
+ It contains the documentation, tools, and outputs **Advanced Topics and Ethical Hacking**.
+
+- 🎯 Phishing attacks using Zphisher (localhost & LocalXpose)
+- 💣 Exploiting the vsftpd 2.3.4 vulnerability in Metasploitable 2 using Metasploit
+- 🧬 Persistence techniques post-exploitation
+
 
 ### 🛠️ **Tools Used**  
   **Zphisher** , **metasploit (msfconsole)**
 
-  - [Introduction](https://github.com/deepthiii33/sapienceintern/new/main/task4/introduction.md)
+  - [About zphisher](https://github.com/deepthiii33/sapienceintern/new/main/task4/zphisher.md)
+  - 
 
 
 
