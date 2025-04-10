@@ -12,7 +12,7 @@ This task involves setting up a cybersecurity lab using **Kali Linux** and **Met
 
 
  - [introduction](task1/introduction.md)
- - [Installing kali linux and metasploitable](task1/lab-setup.md)
+ - [Installing kali linux and metasploitable2](task1/lab-setup.md)
  - [Reconnaissance](task1/Initial-Reconnaissance.md)
 
 -----------
@@ -23,7 +23,7 @@ This task involves setting up a cybersecurity lab using **Kali Linux** and **Met
 
 This task invloves learning about learning linux fundamental commands. The objective was to practice file management, user and process control,networking, and scripting using essential Linux commands. The report details each step performed, including command execution, explanations, and corresponding screenshots where applicable.
 
-- [click here to check about linux fundaments](https://github.com/deepthiii33/sapienceintern/tree/main/task2)
+- [About linux fundaments](https://github.com/deepthiii33/sapienceintern/tree/main/task2)
 
 ----------
 
@@ -38,6 +38,18 @@ This task involves learning about network scanning and vulnerability assessment.
  
 
 - [TASK 3 Introduction ](https://github.com/deepthiii33/sapienceintern/tree/main/task3/introduction.md)
+
+---------
+
+# 📂 Task 4 Contents -Advanced Topics and Ethical Hacking
+
+ ### 📌 Overview
+This task invloves performing Phishing using Zphisher and exploiting vsftpd Vulnerability in Metasploitable 2
+
+### 🛠️ **Tools Used**  
+  **Zphisher** , **metasploit (msfconsole)**
+
+  - [Introduction](https://github.com/deepthiii33/sapienceintern/new/main/task4/introduction.md)
 
 
 
