@@ -55,7 +55,7 @@ This task involves learning about network scanning and vulnerability assessment.
 ### 🛠️ **Tools Used**  
   **Zphisher** , **metasploit (msfconsole)**
 
-  - [zphisher](https://github.com/deepthiii33/sapienceintern/new/main/task4/zphisher.md)
+  - [zphisher](task4/zphisher.md)
     
 
 
