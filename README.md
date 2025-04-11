@@ -37,7 +37,7 @@ This task involves learning about network scanning and vulnerability assessment.
   **nmap** ,  **whois** ,  **dig** ,  **nslookup** , **masscan** , **nikto** 
  
 
-- [TASK 3 Introduction ](https://github.com/deepthiii33/sapienceintern/tree/main/task3/introduction.md)
+- [TASK 3 Introduction ](task3/introduction.md)
 
 ---------
 
