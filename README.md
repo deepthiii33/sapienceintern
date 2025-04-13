@@ -65,6 +65,8 @@ Ethical hacking using **Metasploit** and **Zphisher**; exploiting `vsftpd` and s
   - [zphisher](task4/zphisher.md)
   - [Metasploitable Machine](task4/metasploitable2.md)
     
+--------
 
+**Each week’s task is documented with steps, screenshots, outputs, and analysis**
 
 
