@@ -56,6 +56,7 @@ This task involves learning about network scanning and vulnerability assessment.
   **Zphisher** , **metasploit (msfconsole)**
 
   - [zphisher](task4/zphisher.md)
+  - [Metasploitable Machine](task4/metasploitable2.md)
     
 
 
