@@ -1,6 +1,13 @@
-# 📂 Task 1 Contents - Cybersecurity Lab Setup Documentation
+# 🎓 Cybersecurity Internship Project — Sapience Edu Connect Pvt Ltd
 
-### 📌 Overview  
+## Summary
+
+This internship project was conducted over **four weeks** as part of the **Cybersecurity Training Program** by **Sapience Edu Connect Pvt Ltd**. The curriculum included hands-on activities in setting up a cybersecurity lab, learning Linux fundamentals, network scanning, footprinting, enumeration, and ethical hacking.
+
+The tasks were divided into weekly modules:
+
+
+#### 🔹 Week 1: Introduction to Cybersecurity & Virtualization  
 
 This task involves setting up a cybersecurity lab using **Kali Linux** and **Metasploitable** on a virtualization platform. It also covers **network configuration** and **initial reconnaissance** using tools like Nmap.
 
@@ -17,7 +24,7 @@ This task involves setting up a cybersecurity lab using **Kali Linux** and **Met
 
 -----------
 
- # 📂 Task 2 Contents - Linux Fundamentals
+#### 🔹 Week 2: Linux Fundamentals  
 
  ### 📌 Overview
 
@@ -27,7 +34,7 @@ This task invloves learning about learning linux fundamental commands. The objec
 
 ----------
 
-# 📂 Task 3 Contents -Network Scanning, Footprinting and Enumeration
+#### 🔹 Week 3: Network Scanning, Footprinting & Enumeration  
 
  ### 📌 Overview
 
@@ -41,11 +48,11 @@ This task involves learning about network scanning and vulnerability assessment.
 
 ---------
 
-# 📂 Task 4 Contents -Advanced Topics and Ethical Hacking
+#### 🔹 Week 4: Advanced Topics and Ethical Hacking  
 
  ### 📌 Overview
 
- It contains the documentation, tools, and outputs **Advanced Topics and Ethical Hacking**.
+Ethical hacking using **Metasploit** and **Zphisher**; exploiting `vsftpd` and setting up persistence.
 
 - 🎯 Phishing attacks using Zphisher (localhost & LocalXpose)
 - 💣 Exploiting the vsftpd 2.3.4 vulnerability in Metasploitable 2 using Metasploit
